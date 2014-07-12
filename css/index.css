@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "gb2312";
 /* CSS Document */
 .banner { background: url(../images/banner.jpg) no-repeat center; height: 290px; margin: 10px auto; width: 100%; font-size: 16px; font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif; }
 .texts { line-height: 36px; padding: 90px 0 0 40px; text-shadow: 1px 1px rgba(255,255,255,0.3); }
