@@ -139,6 +139,6 @@
 
 ###七
 
-某位同学的pdf文件做的横不错哒。大家可以点进去欣赏-c-：<a href="taring.github.io/debate/outline.pdf">戳这里</a>
+某位同学的pdf文件做的横不错哒。大家可以点进去欣赏-c-：<a href="outline.pdf">戳这里</a>
 
 ##深夜啦，没什么想法。下次讨论再想更多。
