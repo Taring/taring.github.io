@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>Blog</title>
+<meta name="description" content="The Blog of Taring?!" />
+<link href="css/base.css" rel="stylesheet">
+<link href="css/index.css" rel="stylesheet">
+<link href="css/media.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<!--[if lt IE 9]>
+<script src="js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="ibody">
+  <header>
+    <h1>Taring Lee</h1>
+    <h2>那是当然的吧，自己不行动的话，没有东西会飞到你手里的</h2>
+    <nav id="topnav"><a href="index.html">首页</a><a href="about.html">自我与本我</a><a href="newlist.html">几卷文章</a><a href="new.html">期冀的未来</a></nav>
+  </header>
+  <article>
+    <div class="banner">
+      <ul class="texts">
+        <p>May there be enough clouds in my life to make a beautiful sunset. </p>
+        <p>愿我的生命中有够多的云翳，来造成一个美丽的黄昏。</p>
+      </ul>
+    </div>
+    <div class="bloglist">
+      <div class="blogs">
+        <h3><a href="./web_appreciation.html">网页赏析</a></h3>
+        <figure><img src="images/01.jpg" ></figure>
+        <ul>
+          <p>一些有趣的网页的赏析。</p>
+          <a href="./web_appreciation.html" target="_blank" class="readmore">阅读全文&gt;&gt;</a>
+        </ul>
+        <p class="autor"><span>By: Taring</span></p>
+        <div class="dateview">2014-07-12</div>
+    </div>
+      <div class="blogs">
+        <h3><a href="./boost.html">Windows环境下Boost安装</a></h3>
+        <figure><img src="images/02.jpg" ></figure>
+        <ul>
+            <p>Boost库是一个可移植、提供源代码的C++库，作为标准库的后备，是C++标准化进程的开发引擎之一。</p>
+            <p>由于PPCA大作业的需要，需要对Boost进行安装。在这里记录下一些安装细节。</p>
+          <a href="./boost.html" target="_blank" class="readmore">阅读全文&gt;&gt;</a>
+        </ul>
+        <p class="autor"><span>By: Taring</span></p>
+        <div class="dateview">2014-07-28</div>
+    </div>
+      <div class="blogs">
+          <h3><a href="./Alpha_Document.html">班级主页设计Alpha版文档</a></h3>
+        <figure><img src="images/03.jpg" ></figure>
+        <ul>
+            <p>班级主页Alpha版即将完工，Alpha版文档欢迎大家先睹为快！。</p>
+            <a href="./Alpha_Document.html" target="_blank" class="readmore">戳这里XD&gt;&gt;</a>
+        </ul>
+        <p class="autor"><span>By: Taring</span></p>
+        <div class="dateview">2014-07-29</div>
+      </div>
+    </div>
+
+  </article>
+  <aside>
+  <div class="avatar"><a href="about.html"><span>Taring</span></a></div>
+  <div class = "about_c">
+        <p>Tar、轻 语</p>
+        <p>Computer Scientist of Tomorrow</p>
+        <p>Shanghai Jiao Tong University</p>
+        <p>182-2183-1563</p>
+        <p>taringlee@gmail.com</p>
+    </div>
+    <div class="links">
+      <h2>
+        <p>友情链接</p>
+      </h2>
+      <ul>
+          <li><a href="http://gilbertheywood.github.io/">柏钧文个人主页</a></li>
+          <li><a href="http://jungyhuk.github.io/">陈昕昀个人主页</a></li>
+          <li><a href="http://fei960922.github.io/Personal_Blog/">徐亦飞个人主页</a></li>
+      </ul>
+  </div>
+  
+  </aside>
+  <script src="js/silder.js"></script>
+  <div class="clear"></div>
+  <!-- 清除浮动 --> 
+</div>
+</body>
+</html>
