@@ -17,7 +17,7 @@
   <header>
     <h1>Taring Lee</h1>
     <h2>那是当然的吧，自己不行动的话，没有东西会飞到你手里的</h2>
-    <nav id="topnav"><a href="index.html">首页</a><a href="about.html">自我与本我</a><a href="newlist.html">几卷文章</a><a href="new.html">期冀的未来</a></nav>
+    <nav id="topnav"><a href="index.html">首页</a><a href="about.html">自我与本我</a><a href="newlist.html">Automata Theory</a><a href="./Automata/index.html">期冀的未来</a></nav>
   </header>
   <article>
     <div class="banner">
@@ -27,15 +27,25 @@
       </ul>
     </div>
     <div class="bloglist">
-      <div class="blogs">
-        <h3><a href="./web_appreciation.html">网页赏析</a></h3>
-        <figure><img src="images/01.jpg" ></figure>
+    <div class="blogs">
+          <h3><a href="./Automata/index.html">Automata Theory 2014</a></h3>
+        <figure><img src="images/03.jpg" ></figure>
         <ul>
-          <p>一些有趣的网页的赏析。</p>
-          <a href="./web_appreciation.html" target="_blank" class="readmore">阅读全文&gt;&gt;</a>
+            <p>The problem list and my solution list</p>
+            <a href="./Automata/index.html" target="_blank" class="readmore">列表&gt;&gt;</a>
         </ul>
         <p class="autor"><span>By: Taring</span></p>
-        <div class="dateview">2014-07-12</div>
+        <div class="dateview">2014-12</div>
+    </div>
+    <div class="blogs">
+          <h3><a href="./Alpha_Document.html">班级主页设计Alpha版文档</a></h3>
+        <figure><img src="images/03.jpg" ></figure>
+        <ul>
+            <p>班级主页Alpha版即将完工，Alpha版文档欢迎大家先睹为快！。</p>
+            <a href="./Alpha_Document.html" target="_blank" class="readmore">戳这里XD&gt;&gt;</a>
+        </ul>
+        <p class="autor"><span>By: Taring</span></p>
+        <div class="dateview">2014-07-29</div>
     </div>
       <div class="blogs">
         <h3><a href="./boost.html">Windows环境下Boost安装</a></h3>
@@ -48,16 +58,16 @@
         <p class="autor"><span>By: Taring</span></p>
         <div class="dateview">2014-07-28</div>
     </div>
-      <div class="blogs">
-          <h3><a href="./Alpha_Document.html">班级主页设计Alpha版文档</a></h3>
-        <figure><img src="images/03.jpg" ></figure>
+    <div class="blogs">
+        <h3><a href="./web_appreciation.html">网页赏析</a></h3>
+        <figure><img src="images/01.jpg" ></figure>
         <ul>
-            <p>班级主页Alpha版即将完工，Alpha版文档欢迎大家先睹为快！。</p>
-            <a href="./Alpha_Document.html" target="_blank" class="readmore">戳这里XD&gt;&gt;</a>
+          <p>一些有趣的网页的赏析。</p>
+          <a href="./web_appreciation.html" target="_blank" class="readmore">阅读全文&gt;&gt;</a>
         </ul>
         <p class="autor"><span>By: Taring</span></p>
-        <div class="dateview">2014-07-29</div>
-      </div>
+        <div class="dateview">2014-07-12</div>
+    </div>
     </div>
 
   </article>
@@ -75,9 +85,9 @@
         <p>友情链接</p>
       </h2>
       <ul>
-          <li><a href="http://gilbertheywood.github.io/">柏钧文个人主页</a></li>
-          <li><a href="http://jungyhuk.github.io/">陈昕昀个人主页</a></li>
-          <li><a href="http://fei960922.github.io/Personal_Blog/">徐亦飞个人主页</a></li>
+          <li><a href="http://gilbertheywood.github.io/">柏钧文  个人主页</a></li>
+          <li><a href="http://jungyhuk.github.io/">陈昕昀  个人主页</a></li>
+          <li><a href="http://fei960922.github.io/Personal_Blog/">徐亦飞  个人主页</a></li>
       </ul>
   </div>
   
