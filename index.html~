@@ -17,7 +17,7 @@
   <header>
     <h1>Taring Lee</h1>
     <h2>那是当然的吧，自己不行动的话，没有东西会飞到你手里的</h2>
-    <nav id="topnav"><a href="index.html">首页</a><a href="about.html">自我与本我</a><a href="newlist.html">Automata Theory</a><a href="./Automata/index.html">期冀的未来</a></nav>
+    <nav id="topnav"><a href="index.html">首页</a><a href="about.html">自我与本我</a><a href="./Automata/index.html">Automata Theory</a><a href="./future.html">期冀的未来</a></nav>
   </header>
   <article>
     <div class="banner">
@@ -29,7 +29,7 @@
     <div class="bloglist">
     <div class="blogs">
           <h3><a href="./Automata/index.html">Automata Theory 2014</a></h3>
-        <figure><img src="images/03.jpg" ></figure>
+        <figure><img src="images/04.jpg" ></figure>
         <ul>
             <p>The problem list and my solution list</p>
             <a href="./Automata/index.html" target="_blank" class="readmore">列表&gt;&gt;</a>
