@@ -39,12 +39,12 @@ here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141215111614_hom
 
 ##2014.12.15
 
-here is my <a gref = "./hw5.pdf"> homework</a>
+here is my <a href = "./hw5.pdf"> homework</a>
 
 here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141215111619_homework5.pdf">homework</a>
 
 ##2014.12.16
 
-here is my <a gref = "./hw6.pdf"> homework</a>
+here is my <a href = "./hw6.pdf"> homework</a>
 
 here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141216125645_homework6.pdf">homework</a>
