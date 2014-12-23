@@ -1,6 +1,6 @@
 #Automata Theory 2014
 
-Teacher: John E. Hopcroft
+Professor: John E. Hopcroft
 
 ##2014.12.11
 
