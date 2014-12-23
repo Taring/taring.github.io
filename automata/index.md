@@ -65,3 +65,14 @@ here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141216125645_hom
 here is my <a href = "./hw7.pdf"> solution</a>
 
 here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141217162652_homework7.pdf">homework</a>
+
+##2014.12.22
+
+* Review: the Relationship between Pushdowm Automata and CFG 
+* Closure properties
+* Decision properties and Undecidable properties
+* Greibach normal form
+
+here is my <a href = "./hw8.pdf"> solution</a>
+
+here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141222093059_homework8.pdf">homework</a>
