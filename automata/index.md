@@ -1,4 +1,4 @@
-#Automata Theory 2014
+·#Automata Theory 2014
 
 Professor: John E. Hopcroft
 
@@ -76,3 +76,27 @@ here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141217162652_hom
 here is my <a href = "./hw8.pdf"> solution</a>
 
 here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141222093059_homework8.pdf">homework</a>
+
+##2014.12.23
+
+* Instantaneous description with Interweaving
+* more powerful TM
+	* multi track tapes
+	* multi head
+	* multi tapes
+	* nondeterminism
+	* register machine
+
+here is my <a href = "./hw9.pdf"> solution</a>
+
+here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141223133725_homework9.pdf">homework</a>
+
+##2014.12.24
+
+* Counter machine
+* Universal TM
+* Recursive Set and Recursively Enumevable
+
+here is my <a href = "./hw10.pdf"> solution</a>
+
+here is the <a href = "http://zhiyuan.sjtu.edu.cn/file/course/20141224141424_homework10.pdf">homework</a>
